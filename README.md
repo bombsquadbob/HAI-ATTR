@@ -68,14 +68,13 @@ In documents using a standard reference list (APA, MLA, Chicago, or equivalent),
 **APA:**
 ```
 McQueen, R. (2026, March 23). HAI-ATTR v0.1: Human-AI attribution
-   standard. CC BY 4.0. https://github.com/bombsquadbob/HAI-ATTR
+   standard. Zenodo. https://doi.org/10.5281/zenodo.19177209
 ```
 
 **MLA:**
 ```
 McQueen, Robert. "HAI-ATTR v0.1: Human-AI Attribution Standard."
-   23 Mar. 2026, CC BY 4.0. https://github.com/bombsquadbob/HAI-ATTR
-```
+   23 Mar. 2026, Zenodo, https://doi.org/10.5281/zenodo.19177209
 
 ---
 
