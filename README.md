@@ -4,6 +4,7 @@
 **Originating author: Robert McQueen, Harrisville, New York**
 **Proposed: March 23, 2026**
 **License: [CC BY 4.0](./LICENSE.txt)**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19177209.svg)](https://doi.org/10.5281/zenodo.19177209)
 
 ---
 
